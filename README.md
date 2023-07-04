@@ -30,3 +30,16 @@ The backend of the digital bank project is developed using Spring Boot framework
 The frontend of the digital bank project is developed using Angular framework. It provides an intuitive user interface for interacting with the application.
 
 ## Screenshots
+
+![1-customers](https://github.com/YasminaElhassani/Digital-banking-spring-Angular/assets/103280152/ca6b4cf5-0213-483f-9e1e-93e8e781aaf4)
+![2-search](https://github.com/YasminaElhassani/Digital-banking-spring-Angular/assets/103280152/5b95adbf-f4b0-47c9-ba8a-78a83770007a)
+![3-new customer](https://github.com/YasminaElhassani/Digital-banking-spring-Angular/assets/103280152/9afc9ca7-2403-4214-98a8-90c9b6762343)
+![3-new-cust](https://github.com/YasminaElhassani/Digital-banking-spring-Angular/assets/103280152/e3bbb74a-8de0-44b3-9a1b-05b9227156e7)
+![4-delete](https://github.com/YasminaElhassani/Digital-banking-spring-Angular/assets/103280152/48f20754-7d84-4dff-8c1e-c1efeec2fb35)
+
+![5-accounts](https://github.com/YasminaElhassani/Digital-banking-spring-Angular/assets/103280152/cf2c9855-561f-4a79-b318-1fe81ad0d882)
+![6-debit](https://github.com/YasminaElhassani/Digital-banking-spring-Angular/assets/103280152/5607be41-2993-4126-9f1d-80562fe5b193)
+![7-api-accounts](https://github.com/YasminaElhassani/Digital-banking-spring-Angular/assets/103280152/bfd75cc3-cbfe-48ae-88c8-55df2199581a)
+
+
+
